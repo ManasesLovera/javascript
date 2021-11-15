@@ -1,3 +1,3 @@
-Manasés Lovera Martínez.
+Formulario de Contacto:
 
-Practicando desarrollo de aplicaciones web con javascript.
+Falta validaci'on por Javacript.
