@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Manasés Lovera Martínez">
+    <meta name="description" content="practice js">
+    <title>Contact me</title>
+    <!-- ICON -->
+    <link rel="icon" href="imgs/download.jpg">
+    <!-- STYLE CSS -->
+    <link rel="stylesheet" href="style.css">
+    <!-- NORMALIZED -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <!-- GOOGLE FONTS -->
+    <link rel = "preconnect" href = "https://fonts.googleapis.com">
+<link rel = "preconnect" href = "https://fonts.gstatic.com" crossorigin>
+<link href = "https://fonts.googleapis.com/css2? family = Roboto: wght @ 300 & display = swap "rel =" stylesheet ">
+</head>
+<body>
+    
+    <main id="main">
+        <h1>Contactame:</h1>
+        <div class="gridContainer">
+            <form action="saveData">
+                <label for="name">Nombre:</label>
+                <input type="text" name="name">
+            
+                <label for="lastname">Apellidos:</label>
+                <input type="text" name="lastname">
+            
+                <label for="email">Correo electrónico:</label>
+                <input type="email" name="email">
+                 
+            </form>
+
+            <textarea class="textarea" name="message" placeholder="Digite aquí su mensaje"></textarea>
+        </div>
+
+            <span class="btn" id="btn">Enviar</span>
+    </main>
+
+
+
+
+<script src="main.js"></script>
+</body>
+</html>
