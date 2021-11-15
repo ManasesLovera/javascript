@@ -1,2 +1,3 @@
-# javascript
-Practicando con javascript
+Manasés Lovera Martínez.
+
+Practicando desarrollo de aplicaciones web con javascript.
