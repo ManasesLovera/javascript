@@ -1,3 +1,3 @@
 Formulario de Contacto:
 
-Falta validaci'on por Javacript.
+Falta validación por Javacript.
